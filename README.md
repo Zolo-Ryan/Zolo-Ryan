@@ -43,4 +43,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zolo-Ryan&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zolo-ryan&show_icons=true)
