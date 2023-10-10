@@ -39,7 +39,5 @@
 
 ---
 ### :fire: My Stats :
-<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zolo-Ryan&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zolo-ryan&layout=compact&theme=dark)
-</div>
