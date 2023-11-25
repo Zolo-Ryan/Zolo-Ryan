@@ -40,5 +40,5 @@
 
 ---
 ### :fire: My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Zolo-Ryan1&theme=dark)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolo-Ryan&layout=compact&theme=dark)
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zolo-Ryan&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zolo-Ryan&hide_border=true&layout=compact&theme=dark" align="center" /></div>
